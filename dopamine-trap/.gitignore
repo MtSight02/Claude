@@ -1,0 +1,4 @@
+__pycache__/
+build/video_silent.mp4
+build/audio.wav
+build/lexicon-zh-patched.txt
