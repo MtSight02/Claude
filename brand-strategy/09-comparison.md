@@ -16,6 +16,9 @@
 | 商标拥挤度（未核实） | "Flare" 常见词，组合后相对独特 | "Wren" 在时尚、家居领域常见 | "Lark" 在时尚领域较常见 |
 | 价格感匹配（$18–40） | 好：显贵但不疏远 | 好：非常契合平价 | 有落差：气质像 $80+ 品牌，可能让人"以为很贵"而不点进，也可能让价格显得"可疑地便宜" |
 | 欧盟适配 | 好（英语通用） | 好 | 好（意大利词加分），但需发音教育 |
+| 代表 tagline | Pocket-sized fireworks. / Looks like a splurge. Wears like a Tuesday. | A little wink of light. / Turn your head. It winks back. | Light, lightly worn. / Catch the first light. |
+| 标准版启动预算（估算） | $24,500 | $24,500 | $24,650 |
+| 产品命名体系 | The Spark 4mm / The Flare 6mm / The Finale 8mm / The Perch Huggie / Afterglow 彩锆；套装 The Duet、The Full Show | 见 wren-and-wink/05 | 见 lark-and-luce/05 |
 
 ## 2. 各方案优劣
 
@@ -38,7 +41,7 @@
 1. **名字 = 产品卖点**。DTC 早期只有一个英雄款，品牌名能直接替英雄款说话（"Flare" ↔ 烟花切），每一分广告费都在同时教育品牌和产品。
 2. **"有质感"和"平价"之间的平衡最好**。它比 Wren & Wink 更能撑住高级感，又比 Lark & Luce 更贴合 $18–40 的价格心理。
 3. **口碑传播零摩擦**。美国和欧盟用户听一遍就能拼出 finchandflare.com，对依赖 UGC 和达人的品牌很关键。
-4. **内容和节日钩子最多**。新年跨年、美国独立日、英国 Bonfire Night、婚礼季、"烟花"视觉母题——一年四季都有借势点；产品线可以按"Flare 04 / 06 / 08、Afterglow 彩锆、Finale 套装"自然延展。
+4. **内容和节日钩子最多**。新年跨年、美国独立日、英国 Bonfire Night、婚礼季、"烟花"视觉母题——一年四季都有借势点；产品线天然形成"Spark → Flare → Finale"的尺寸阶梯，再加 Afterglow 彩锆、Full Show 耳叠套装，一套命名讲完一场烟花。
 5. **可吸收大胆版的长处**。"Spark Lab" 测试内容可以作为 Finch & Flare 的一个栏目（#FlareLab）直接借用，不需要换品牌。
 
 **执行建议**：
