@@ -1,0 +1,18 @@
+section,item,value,unit,note
+landed_cost,factory_price_incl_plating,1.60,USD/pair,replace with supplier quote (unverified estimate)
+landed_cost,packaging_per_unit,1.10,USD/pair,box + card + pouch + seal
+landed_cost,freight_and_duty_per_unit,0.90,USD/pair,recalculate with current tariff rates
+landed_cost,landed_cost,=C2+C3+C4,USD/pair,formula
+pricing,retail_price,24.00,USD,hero 6mm gold
+pricing,product_gross_margin,=(C6-C5)/C6,%,formula
+order,aov,38.00,USD,average order value
+order,units_per_order,1.6,units,
+order,cogs_per_order,=C9*C5,USD,formula
+order,fulfillment_3pl,3.50,USD/order,
+order,outbound_shipping,4.50,USD/order,free shipping over $35
+order,payment_fee,=C8*0.029+0.30,USD/order,check current Shopify Payments rate
+order,returns_allowance,=C8*0.03,USD/order,
+order,contribution_before_ads,=C8-C10-C11-C12-C13-C14,USD/order,formula
+order,contribution_margin,=C15/C8,%,formula
+ads,breakeven_cpa,=C15,USD,
+ads,breakeven_roas,=C8/C15,x,
